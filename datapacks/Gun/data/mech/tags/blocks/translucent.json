@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:redstone_wire",
+        "minecraft:repeater",
+        "minecraft:comparator",
+        "minecraft:piston_head",
+        "#minecraft:air",
+        "#minecraft:liquid",
+        "#minecraft:banners",
+        "#minecraft:beds",
+        "#minecraft:buttons",
+        "#minecraft:carpets",
+        "#minecraft:corals",
+        "#minecraft:doors",
+        "#minecraft:fences",
+        "#minecraft:flower_pots",
+        "#minecraft:leaves",
+        "#minecraft:rails",
+        "#minecraft:saplings",
+        "#minecraft:signs",
+        "#minecraft:slabs",
+        "#minecraft:small_flowers",
+        "#minecraft:trapdoors",
+        "#minecraft:wall_corals"
+    ]
+}
